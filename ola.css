@@ -1,0 +1,24 @@
+th, td{
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+.azure{
+    background-color: azure;
+}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
